@@ -9,7 +9,7 @@ The notebooks cover real-world data analysis tasks, data exploration, and variou
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ## 📌 Topics
 
